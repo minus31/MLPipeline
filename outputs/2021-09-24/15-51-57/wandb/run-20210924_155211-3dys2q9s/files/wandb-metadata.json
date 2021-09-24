@@ -1,0 +1,22 @@
+{
+    "os": "macOS-11.5.2-x86_64-i386-64bit",
+    "python": "3.9.7",
+    "heartbeatAt": "2021-09-24T06:52:16.043580",
+    "startedAt": "2021-09-24T06:52:11.757055",
+    "docker": null,
+    "cpu_count": 12,
+    "cuda": null,
+    "args": [],
+    "state": "running",
+    "program": "/Users/hyunkim/Desktop/dev/MLPipeline/train.py",
+    "codePath": "train.py",
+    "git": {
+        "remote": "https://github.com/minus31/MLPipeline.git",
+        "commit": "015b3d6f8093e843e8afae4349a5493c4beaff08"
+    },
+    "email": null,
+    "root": "/Users/hyunkim/Desktop/dev/MLPipeline",
+    "host": "HYUNui-MacBookPro.local",
+    "username": "hyunkim",
+    "executable": "/usr/local/opt/python@3.9/bin/python3.9"
+}
