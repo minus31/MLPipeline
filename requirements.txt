@@ -10,3 +10,6 @@ hydra-core==1.1.0
 omegaconf
 hydra_colorlog
 dvc
+onnxruntime
+fastapi
+uvicorn
